@@ -17,7 +17,8 @@ MCDash is a simple dashboard for your Minecraft server. It allows you to see the
 
 # Creating your password
 
-To create your password, you have to execute the following command either in the console or in-game:
+To create your password, you have to execute the following command in-game:
+(using the command in rcon is not recommended because this would result in an unknown user name)
 
 ```
 /panel <password>
